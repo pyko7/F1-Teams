@@ -1,71 +1,53 @@
-# Getting Started with Create React App
+# F1 Teams (very inspired by Tesla website)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to this little project called F1 Teams.
 
-## Available Scripts
+My goal for this project was to build a single page application using TailwindCSS for the first time.
+Until now, I've only worked with CSS Vanilla and SASS, so I've decided to learn a CSS framework.
 
-In the project directory, you can run:
+As a Formula 1 enthusiast, I've though it would be a great idea to build a simple page application mixing an existing website ([Tesla](https://www.tesla.com/)) and something that I enjoy.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Table of contents
 
-### `npm run build`
+- [Installation](#installation)
+- [Built with](#built-with)
+- [Author](#author)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Clone the project
+```bash
+  git clone https://github.com/pyko7/F1-Teams.git
+```
+- Go to the the root of the project
+```bash
+  cd f1-Teams
+```
+- Install the project
+```bash
+  npm install
+```
+- Open the project
+```bash
+  npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Built with
+- React v18
+- TailwindCSS
+- Headless UI
+- Framer motion
+- React scroll
+## Author
 
-### `npm run eject`
+I'm Julien HENRY a junior front-end developer based in France. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+I'm looking for a React front-end developer job. If you require any further information, feel free to contact me.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# F1-Teams
+- [LinkedIn](https://www.linkedin.com/in/julienhenry9671/)
+- [Github](https://github.com/pyko7)
+- [Email](mailto:julien7henry@gmail.com)
